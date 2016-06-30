@@ -674,7 +674,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ZipKit/ZipKit-Prefix.pch";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PUBLIC_HEADERS_FOLDER_PATH = include/ZipKit;
+				PUBLIC_HEADERS_FOLDER_PATH = ZipKit;
 			};
 			name = Debug;
 		};
@@ -685,7 +685,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ZipKit/ZipKit-Prefix.pch";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PUBLIC_HEADERS_FOLDER_PATH = include/ZipKit;
+				PUBLIC_HEADERS_FOLDER_PATH = ZipKit;
 			};
 			name = Release;
 		};
